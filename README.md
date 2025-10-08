@@ -2,7 +2,7 @@
 
 💻 **Cloud & DevOps Enthusiast | IT Support Professional | AWS | Terraform | Jenkins | Docker**
 
-I'm a results-driven IT professional with over 8 years of experience supporting enterprise infrastructure and end users across multi-site environments. Currently transitioning into **Cloud Computing & DevOps**, I focus on building scalable solutions using AWS, CI/CD, and Infrastructure as Code.
+I'm a results-driven IT professional with over 8 years of experience supporting enterprise infrastructure and end users across multi-site environments. Currently transitioning into **Cloud Computing & DevOps**. I focus on building scalable solutions using AWS, CI/CD, and Infrastructure as Code.
 
 ---
 
